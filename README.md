@@ -2,7 +2,10 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQwNm44M2Y5ZXk1ZTdmejgxNDl0cG54cHQxNzc2b2dzZXA1OHFmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nmRTCS8X0b5F4HWJhI/giphy.gif"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PemaLoselMaurer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PemaLoselMaurer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -34,5 +37,15 @@
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQwNm44M2Y5ZXk1ZTdmejgxNDl0cG54cHQxNzc2b2dzZXA1OHFmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nmRTCS8X0b5F4HWJhI/giphy.gif"  />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/PemaLoselMaurer/PemaLoselMaurer/output/snake.svg" alt="Snake animation" />
 
 ###
