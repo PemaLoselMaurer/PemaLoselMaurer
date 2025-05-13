@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pema Losel Maurer and I'm a Software Engineering Student from Collage Of Science And Technology</h2>
+<h2 align="left">Hey ! My name is Pema Losel Maurer and I'm a Software Engineering Student from Collage Of Science And Technology</h2>
 
 ###
 
@@ -40,14 +40,8 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQwNm44M2Y5ZXk1ZTdmejgxNDl0cG54cHQxNzc2b2dzZXA1OHFmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nmRTCS8X0b5F4HWJhI/giphy.gif"  />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PemaLoselMaurer/PemaLoselMaurer/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PemaLoselMaurer/PemaLoselMaurer/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PemaLoselMaurer/PemaLoselMaurer/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQwNm44M2Y5ZXk1ZTdmejgxNDl0cG54cHQxNzc2b2dzZXA1OHFmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nmRTCS8X0b5F4HWJhI/giphy.gif"  />
+</div>
 
 ###
