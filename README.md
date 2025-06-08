@@ -1,4 +1,4 @@
-<h2 align="left">Hey ! My name is Pema Losel Maurer and I'm a Software Engineering Student from Collage Of Science And Technology</h2>
+<h2 align="left">Hey ! My name is Pema Losel Maurer and I'm a Software Engineering Student from College Of Science And Technology</h2>
 
 ###
 
